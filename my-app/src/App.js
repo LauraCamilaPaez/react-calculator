@@ -20,7 +20,7 @@ function App() {
         } else {
             alert("Please enter values to perform calculations")
         }
-    }
+    };
 
   return (
     <div className='App'>
